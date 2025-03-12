@@ -1,4 +1,4 @@
-# ShapeMetricCalculator
+# Shape Metric Calculator
 
 **Build shapes and calculate their area with classes, objects, and methods.**
 
